@@ -6,6 +6,7 @@
   ## Running the code
 
   Run `npm i` to install the dependencies.
-
+  # Updated README.md
+  
   Run `npm run dev` to start the development server.
   
